@@ -1,1 +1,3 @@
 Data_Sets/
+ *.csv
+# Ignore all CSV files in the Data_Sets directory
